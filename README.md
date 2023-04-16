@@ -7,12 +7,12 @@ Dana’s webpage and dynamic table are working as intended, but she’d like to 
 
 With the changes that have been made a more seemless experince would be had as you would get the information filter right away instead of having to click on a button.
 
-![alt text](D:\School\Challenge\UFOs\UFOs\Images\fitlers.PNG)
+![alt text](https://github.com/jovalle2/UFOs/blob/main/Images/fitlers.PNG)
 
 There is also the option to be able to fitler multiple things
 
-![alt text](D:\School\Challenge\UFOs\UFOs\Images\multiple_filters.PNG)
+![alt text](https://github.com/jovalle2/UFOs/blob/main/Images/multiple_filters.PNG)
 
 With that change it could also cause issues with someone not being sure what to do to get the results. Another issue I had found was that it is case sensitive so more work would be needed to make it easier for a user to use.
 
-![alt text](D:\School\Challenge\UFOs\UFOs\Images\issue.PNG)
+![alt text](https://github.com/jovalle2/UFOs/blob/main/Images/issue.PNG)
